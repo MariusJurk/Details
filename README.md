@@ -1,2 +1,2 @@
-# hello-world
-adfdsghdhgdfhjhdhjgh
+# Details
+Marius Jurkonis u1458152
